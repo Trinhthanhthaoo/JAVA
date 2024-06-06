@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class> 
+    <student id = "1">
+        <name>Hoàng Oanh</name>
+    </student>
+    
+     <student id = "2">
+        <name>Vũ Khanh</name>
+    </student>
+    
+     <student id = "3">
+        <name>Khánh Ly</name>
+    </student>
+</class>
